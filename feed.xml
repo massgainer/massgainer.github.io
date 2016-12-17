@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ironheat</title>
+    <description>Блог про спортивную фармакологию.</description>
+    <link>http://www.bulking.info/</link>
+    <atom:link href="http://www.bulking.info/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Dec 2016 20:23:33 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2016 20:23:33 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+  </channel>
+</rss>
