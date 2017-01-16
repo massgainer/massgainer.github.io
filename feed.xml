@@ -3,10 +3,10 @@
   <channel>
     <title>Bulking Info</title>
     <description>Все что вы хотели знать про анаболические стероиды.</description>
-    <link>http://www.bulking.info/</link>
-    <atom:link href="http://www.bulking.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Dec 2016 14:22:00 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Dec 2016 14:22:00 +0000</lastBuildDate>
+    <link>https://massgainer.github.io/</link>
+    <atom:link href="https://massgainer.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Jan 2017 11:59:57 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 11:59:57 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
   </channel>
